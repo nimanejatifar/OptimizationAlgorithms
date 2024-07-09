@@ -9,7 +9,7 @@ https://github.com/nimanejatifar/OptimizationAlgorithms/assets/126930185/f29a8d4
 
 
 
-Hungarian Algorithm (The code for this section has been written by @Morteza-24) :
+Hungarian Algorithm (The code for this section has been written by @Morteza24) :
 
 https://github.com/nimanejatifar/OptimizationAlgorithms/assets/126930185/7a0eff9f-b653-49d9-b421-0711908bd58b
 
